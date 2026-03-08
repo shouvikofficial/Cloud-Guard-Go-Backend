@@ -1,0 +1,17 @@
+# Ignore Telegram Credentials
+.env
+tg_session.json
+
+# Ignore temporary upload files
+temp_uploads/
+
+# Ignore compiled binaries
+*.exe
+app.exe
+main
+*.out
+*.log
+
+# Ignore IDE files
+.vscode/
+.idea/
