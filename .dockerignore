@@ -1,0 +1,8 @@
+# Deployment Build optimizations
+.env
+.git
+temp_uploads/
+*.exe
+*.log
+.gitignore
+README.md
