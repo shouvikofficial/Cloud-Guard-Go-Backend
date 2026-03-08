@@ -1,7 +1,7 @@
 # Dockerfile to deploy Go Backend on Render
 
 # Build stage
-FROM golang:1.23-alpine AS builder
+FROM golang:alpine AS builder
 
 WORKDIR /app
 
